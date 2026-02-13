@@ -1,10 +1,13 @@
-# Roman Sytnyk
+# Dr. Roman Sytnyk
 
 **Mobile Engineer** specializing in **React Native, iOS & Android**
 
+**Philosophy Doctor (PhD)** in Computer Science
+
 * 📱 Currently building cross-platform mobile apps & native modules with **React Native & Expo**
 * 🔧 Background in native **Android (Kotlin/Java)** and **iOS (Swift)** development
-* ☕ Organizing **Wrocław iOS Sunday Coffee Meeting** – weekly offline mobile meetups
+* ☕ Organizing **Wrocław Mobile Sunday Coffee Meeting** – weekly offline meetups for mobile developers
+* 👨🏼‍🔬 Philosophy Doctor (Ph.D.) in Computer Science
 * 🏦 Experience in FinTech & Crypto Finance Projects
 * 🌍 Erasmus+ Youth Exchange participant (Cyprus & Poland, 2017-2018)
 
@@ -39,8 +42,15 @@
 
 ## 🎓 Education
 
+* Philosophy Doctor (PhD) in Computer Science  
+Ukrainian State University of Science and Technology (USUST) (2021 - 2026)
+
 * Master's Degree in **Software Engineering**  
 Dnipro University of Technology (2015 – 2020)
+
+
+##### 🀄 Languages:
+* English, Russian, Polish, Ukrainian, Belarusian
 
 
 ## 📫 Connect with me
