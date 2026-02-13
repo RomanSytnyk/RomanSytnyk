@@ -42,15 +42,16 @@
 
 ## 🎓 Education
 
-* Philosophy Doctor (PhD) in Computer Science  
+* Philosophy Doctor (PhD) in **Computer Science**  
 Ukrainian State University of Science and Technology (USUST) (2021 - 2026)
 
-* Master's Degree in **Software Engineering**  
+* Master's Degree (MSc) in **Software Engineering**  
 Dnipro University of Technology (2015 – 2020)
 
 
-##### 🀄 Languages:
-* English, Russian, Polish, Ukrainian, Belarusian
+##### 🌍 Languages:
+- English, Russian, Polish, Ukrainian
+- _Basic: Belarusian, German_
 
 
 ## 📫 Connect with me
