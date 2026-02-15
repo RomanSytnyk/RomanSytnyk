@@ -1,6 +1,6 @@
 # Dr. Roman Sytnyk
 
-**Mobile Engineer** specializing in **React Native, iOS & Android**
+**Software Engineer** specializing in **Mobile Development (React Native, iOS, and Android)**
 
 **Philosophy Doctor (PhD)** in Computer Science
 
@@ -50,8 +50,7 @@ Dnipro University of Technology (2015 – 2020)
 
 
 ##### 🌍 Languages:
-- English, Russian, Polish, Ukrainian
-- _Basic: Belarusian, German_
+- English, Russian, Polish, Ukrainian, Belarusian
 
 
 ## 📫 Connect with me
