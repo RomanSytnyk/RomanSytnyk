@@ -49,7 +49,7 @@ Ukrainian State University of Science and Technology (USUST) (2021 - 2026)
 Dnipro University of Technology (2015 – 2020)
 
 
-##### 🌍 Languages:
+### 🌍 Languages:
 - English, Russian, Polish, Ukrainian, Belarusian
 
 
