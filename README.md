@@ -11,6 +11,7 @@
 * 🏦 Experience in FinTech & Crypto Finance Projects
 * 🌍 Erasmus+ Youth Exchange participant (Cyprus & Poland, 2017-2018)
 
+Personal Website – [sytnyk.dev](https://sytnyk.dev/)
 
 ## 🛠 Tech Stack
 
