@@ -5,7 +5,7 @@
 **Philosophy Doctor (PhD)** in Computer Science
 
 * 📱 Currently building cross-platform mobile apps & native modules with **React Native & Expo**
-* 🔧 Background in native **Android (Kotlin/Java)** and **iOS (Swift)** development
+* 🔧 Background in native **Android (Kotlin/Java)** and **iOS (Swift)** development. Back-End Development with NodeJS
 * ☕ Organizing **Wrocław Mobile Sunday Coffee Meeting** – weekly offline meetups for mobile developers
 * 👨🏼‍🔬 Philosophy Doctor (Ph.D.) in Computer Science
 * 🏦 Experience in FinTech & Crypto Finance Projects
@@ -39,6 +39,7 @@ Personal Website – [sytnyk.dev](https://sytnyk.dev/)
 * **[Blur App In Recents](https://github.com/RomanSytnyk/blur-app-in-recents)** – React Native library author for blurring app content in recent apps screen
 * **[SpaceX Launches App](https://github.com/RomanSytnyk/SpaceX-App-unofficial)** – Open-source app for tracking SpaceX launches schedule
 * Other various Open-Source contributions [[1](https://github.com/sbaiahmed1/react-native-biometrics/pull/5)][[2](https://github.com/r0adkll/Slidr/pull/75)][[3](https://github.com/georstat/react-native-image-cache/pull/30)][[4](https://github.com/chthai64/SwipeRevealLayout/pull/94)][[5](https://github.com/amitpdev/react-native-google-places-textinput/pull/32)][[6](https://github.com/segmentio/analytics-react-native/pull/1146)]
+* 🧬 Contributing to **AI skills for genealogy and kinship research** – [ex-USSR Kinship Research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research/commits?author=RomanSytnyk)
 
 
 ## 🎓 Education
